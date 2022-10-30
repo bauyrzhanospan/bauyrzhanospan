@@ -8,7 +8,7 @@
 <img src="https://streak-stats.demolab.com?user=bauyrzhanospan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="drawing" width="100%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=bauyrzhanospan&show_icons=true&theme=tokyonight" alt="drawing" width="100%"/>
 <!-- <center><img src="https://github-readme-stackoverflow.vercel.app/?userID=9142932" alt="drawing" width="50%"/></center> -->
-<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9142932&textfill=black&fill=purple">
+<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9142932&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" width="100%">
 <img src="img/Skills.png" alt="drawing" width="100%"/>
 
 
